@@ -1,0 +1,10 @@
+{
+  "name": "gloria",
+  "app_id": "",
+  "gulpStartupTasks": ["sass", "coffee", "watch"],
+  "watchPatterns": [
+    "www/js/*",
+    "www/coffee/*",
+    "!www/css/**/*"
+  ]
+}
